@@ -1,7 +1,18 @@
 
 # Moscow Foodservice Places
 
-Investors are planning to open a foodservice place in Moscow. They do not yet know what kind of place and what the location, menu and prices will be. The goal is to prepare a study of the Moscow foodservice market, find interesting features and present the results, that will help in choosing a suitable place for investors.
+**Research objective**: prepare a study of the Moscow foodservice market, find interesting features and present the results obtained, which will help in choosing a suitable place for investors.
+
+**Research tasks**:
+Give recommendations on:
+
+* format of the place (investors are considering a coffee shop, restaurant, pizzeria, pub or bar);
+* location,
+* prices.
+
+Stack: Python, Pandas, Seaborn, Plotly, data visualization.
+
+According to the results of a detailed study, it was recommended to open a non-chain 24-hour coffee shop in the Southern Administrative District of Moscow with the cost of a cup of cappuccino from 165 rubles.
 
 The project is presented as an html report without the data, because the dataset is the intellectual property of Yandex.Practicum.
 
